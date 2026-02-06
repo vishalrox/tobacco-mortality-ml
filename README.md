@@ -80,24 +80,33 @@ Affordability Impact
 
 Income Impact
 
-📈 Exploratory Data Analysis
-Distribution of Key Variables
+## 📊 Exploratory Data Analysis
 
-Smoking vs Mortality
+### 🔹 Distribution of Key Variables
+![EDA Distributions](images/eda_distributions.png)
 
-Smoking vs Admission Rate
+### 🔹 Smoking vs Mortality
+![Smoking vs Mortality](images/eda_smoking_vs_mortality.png)
 
-Tobacco Affordability vs Smoking
+### 🔹 Smoking vs Admission Rate
+![Smoking vs Admission](images/eda_smoking_vs_admission.png)
 
-Trends Over Time
+### 🔹 Tobacco Affordability vs Smoking
+![Affordability vs Smoking](images/eda_affordability_vs_smoking.png)
 
-Tobacco Price vs Smoking Trend
+### 🔹 Trends Over Time
+![Trend Over Time](images/eda_trend_over_time.png)
 
-Correlation Heatmap
+### 🔹 Tobacco Price vs Smoking Trend
+![Price vs Smoking Trend](images/eda_price_vs_smoking_trend.png)
 
-Correlation with Mortality
+### 🔹 Correlation Heatmap
+![Correlation Heatmap](images/eda_correlation_heatmap.png)
 
-🤖 Machine Learning Models
+### 🔹 Correlation with Mortality
+![Correlation with Mortality](images/eda_corr_with_mortality.png)
+
+## 🤖 Machine Learning Models
 
 Target variable:
 
