@@ -4,7 +4,10 @@ A Machine Learning + Data Science project that analyzes how tobacco usage patter
 
 # 🌍 Live Deployment
 
-🔗 Streamlit Web App: (Add your deployed link here)
+🚀 Live Streamlit App
+
+Try the app here:  
+👉 https://tobacco-mortality-ml-3fdh5bpujset8xltm8srw4.streamlit.app/
 
 ⚡ FastAPI Backend: http://127.0.0.1:8000
 
